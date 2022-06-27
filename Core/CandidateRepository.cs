@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text.Json;
 
-namespace Tinder.Core
+namespace Core
 {
     public class CandidateRepository
     {

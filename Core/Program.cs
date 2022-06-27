@@ -1,4 +1,4 @@
-namespace Tinder.Core;
+namespace Core;
 
 public class Program
 {

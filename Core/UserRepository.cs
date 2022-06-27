@@ -3,7 +3,7 @@ using System.IO;
 using System.Linq;
 using System.Text.Json;
 
-namespace Tinder.Core
+namespace Core
 {
     public class UserRepository
     {

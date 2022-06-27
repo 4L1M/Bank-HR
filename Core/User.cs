@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Tinder.Core
+namespace Core
 {
     public class User
     {
